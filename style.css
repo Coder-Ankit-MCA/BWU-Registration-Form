@@ -1,0 +1,94 @@
+.body {
+    background-color:rgb(255, 238, 205);
+}
+
+.focus {
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 10%;
+}
+
+.student{
+    color: rgb(28, 74, 172);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(183, 255, 249);
+    margin-left: 37%;
+    margin-right: 37%;
+    border-radius: 15%;
+    cursor:default;
+}
+
+.aster {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 1400;
+    background-color: rgb(91, 85, 85);
+    color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+    cursor:default;
+}
+
+.bw {
+    border-radius: 50%;
+}
+
+.form {
+    background-color:lightgrey;
+    margin-bottom: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+   
+    border-style:ridge;
+}
+
+.table {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: large;
+}
+
+.misc {
+    cursor:default;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.done {
+    background-color: forestgreen;
+    color: white;
+    font-size: 20px;
+    border-radius: 10%;
+    border: none;
+    cursor: pointer;
+}
+
+.reset {
+    background-color: forestgreen;
+    color: white;
+    font-size: 20px;
+    border-radius: 10%;
+    border: none;
+    margin-left: 3%;
+    cursor: pointer;
+}
+
+.service{
+    color: white;
+    font-size: large;
+}
+
+.foot {
+    background-color: rgb(25, 23, 23);
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin: 20;
+    padding: 0.5%;
+}
